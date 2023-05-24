@@ -7,4 +7,4 @@ dt1 = datetime.datetime.fromtimestamp(ts1.timestamp())
 dt2 = datetime.datetime.fromtimestamp(ts2.timestamp())
 
 dt1 > dt2
-# 输出 True
+ print("成功")
